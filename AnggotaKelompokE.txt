@@ -1,10 +1,6 @@
 Fredy Arya Hutama - 102042300099
 Sarah Dinda Siregar 
 Muhammad Indra Fata
-<<<<<<< HEAD
 Zildan Chesta Adabi Diagus - 102042330082
-=======
-Zildan Chesta Adabi Diagus
->>>>>>> parent of 6b73481 (Menambahkan NIM)
 M.Panji Laryan
 Angga Prasetya Putra 
